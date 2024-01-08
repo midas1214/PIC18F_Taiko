@@ -1,0 +1,9 @@
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.csprojAssemblyReference.cache
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.Properties.Resources.resources
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.csproj.GenerateResource.cache
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.csproj.CoreCompileInputs.cache
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\bin\Debug\UART_Keypress.exe.config
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\bin\Debug\UART_Keypress.exe
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\bin\Debug\UART_Keypress.pdb
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.exe
+C:\Users\Midas\Desktop\PIC18F_Taiko\UART_Keypress\UART_Keypress\obj\Debug\UART_Keypress.pdb
