@@ -4,7 +4,6 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>adc.h</itemPath>
       <itemPath>setting.h</itemPath>
       <itemPath>uart.h</itemPath>
     </logicalFolder>
@@ -16,7 +15,6 @@
                    displayName="Source Files"
                    projectFiles="true">
       <itemPath>main.c</itemPath>
-      <itemPath>adc.c</itemPath>
       <itemPath>setting.c</itemPath>
       <itemPath>uart.c</itemPath>
     </logicalFolder>

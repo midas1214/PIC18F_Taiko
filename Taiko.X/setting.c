@@ -57,24 +57,10 @@
 
 #include "setting.h"
 
-void SYSTEM_Initialize(void)
-{
-    // PIN_MANAGER_Initialize();
-    OSCILLATOR_Initialize(); //default 1Mhz
-//    TMR2_Initialize();
-//    TMR1_Initialize();
-//    TMR0_Initialize();
-    INTERRUPT_Initialize();
-    UART_Initialize();
-    CCP1_Initialize();
-    ADC_Initialize();
-}
-
 void OSCILLATOR_Initialize(void)
 {
-    IRCF2 = 1; // default setting 4M Hz
-    IRCF1 = 1;
+    // Internal Oscillator Frequency, Fosc = 1 MHz, Tosc = 1 µs
+    IRCF2 = 1;
+    IRCF1 = 0;
     IRCF0 = 0;
-
-    // RCON = 0x0000;
 }
